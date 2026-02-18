@@ -183,7 +183,7 @@ pyasn1_modules==0.4.2
 pycodestyle==2.8.0
 pycparser==2.21
 pycryptodome==3.11.0
-pydantic==2.11.9
+pydantic>=2.0
 pydantic_core==2.33.2
 Pygments==2.19.2
 PyJWT==2.3.0
@@ -236,7 +236,7 @@ spacy-legacy==3.0.12
 spacy-loggers==1.0.5
 SQLAlchemy==1.4.27
 sqlalchemy2-stubs==0.0.2a19
-sqlmodel==0.0.4
+sqlmodel>=0.0.16
 sqlparse==0.5.5
 srsly==2.5.1
 stack-data==0.6.3
@@ -278,3 +278,4 @@ wrapt==1.13.3
 xlrd==2.0.1
 XlsxWriter==3.0.2
 zipp==3.23.0
+
